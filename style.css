@@ -22,7 +22,8 @@ h1 {
     margin-top: 5rem;
 }
 #courseName, #creditHours{
-    padding: 0.5rem;
+    padding: 0.3rem;
+    width: 80%;
     border: 1px solid rgb(93, 94, 63);
     font-size: 20px;
 }
@@ -57,4 +58,4 @@ footer{
     scale: 0.99;
     background-color: white;
     color: black;
-}
+}  
